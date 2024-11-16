@@ -11,3 +11,5 @@ Allons y
 
 Je l'ai finalement fait
 maintenant on est dans la branche main je vais faire une modif
+
+ca a marche et affiche ca en mode branche paraelle
