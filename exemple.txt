@@ -5,3 +5,6 @@ Je suis venu faire une deuxieme modification,
 voici ci-dessous la deuxieme modification: 
 
 Que peux-tu faire aujourd'hui qui va te rapprocher de tes objectifs? 
+
+Je viens maintenant faire un push dans la branche principale
+Allons y 
