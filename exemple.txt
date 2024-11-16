@@ -8,3 +8,6 @@ Que peux-tu faire aujourd'hui qui va te rapprocher de tes objectifs?
 
 Je viens maintenant faire un push dans la branche principale
 Allons y 
+
+Je l'ai finalement fait
+maintenant on est dans la branche main je vais faire une modif
